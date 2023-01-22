@@ -21,3 +21,62 @@
     justify-content: space-between;
     padding: 0 1.5rem;
 }
+
+.nav-icon{
+    font-size: 1.5rem;
+}
+
+.cart-btn{
+    position: relative;
+    cursor: pointer;
+}
+
+.cart-items{
+    position: absolute;
+    top: -8px;
+    right: -8px;
+    background:rgb(232, 233, 123);
+    color: whitesmoke;
+}
+
+/*=========== HERO =================*/
+.hero{
+    min-height: calc(100vh - 60px);
+    background: url("./img/minh-pham-OtXADkUh3-I-unsplash.jpg") center/cover no-repeat;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.banner{
+    text-align: center;
+    background: rgba(244, 250, 200, 0.9);
+    display: inline-block;
+    padding: 2rem;
+}
+
+.banner-title{
+    font-size: 3.4rem;
+    text-transform: uppercase;
+    letter-spacing: 1.2rem;
+    margin-bottom: 3rem;
+}
+
+.banner-btn{
+    padding: 1rem 3rem;
+    text-transform: uppercase;
+    letter-spacing: 1rem;
+    font-size: 1rem;
+    background:rgb(232, 233, 123);
+    color: black;
+    border: 1px solid rgb(232, 233, 123);
+    transition: all 0.5s ease;
+    cursor: pointer;
+}
+
+.banner-btn:hover {
+    background: transparent;
+    color:rgb(232, 233, 123);
+}
+
+/* ================ CART =================*/
