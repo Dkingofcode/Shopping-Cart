@@ -176,4 +176,43 @@
     position: fixed;
      top: 0;
      right: 0;
+     width: 100%;
+     height: 100%;
+     overflow: scroll;
+     background:rgba(244, 250, 200, 0.9);
+     z-index: 3;
+     background: rgb(233, 185, 123);
+     padding: 1.5rem;
+     transition: all 0.5s ease;
+     transform: translateX(100%);
 }
+
+.showCart {
+    transform: translateX(0);
+}
+
+.transparentBcg {
+    visibility: visible;
+}
+
+@media screen and (min-width: 768px){
+    .cart {
+        width: 30vw;
+        min-width: 450px;
+    }
+}
+
+.close-cart{
+    font-size: 1.7rem;
+    cursor: pointer;
+}
+
+.cart h2{
+    text-transform: capitalize;
+    text-align: center;
+    letter-spacing: normal;
+    margin-bottom: 2rem;
+}
+
+
+
