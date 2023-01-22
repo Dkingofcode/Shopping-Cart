@@ -79,4 +79,101 @@
     color:rgb(232, 233, 123);
 }
 
-/* ================ CART =================*/
+/* ================ Products =================*/
+.products {
+    padding: 4rem 0;
+}
+
+.section-title h2{
+    text-align: center;
+    font-size: 2.5rem;
+    margin-bottom: 5rem;
+    text-transform: capitalize;
+    letter-spacing: normal;
+}
+
+.products-center{
+    width: 90vw;
+    margin: 0 auto;
+    max-width: 1170px;
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+    grid-column-gap: 1.5rem;
+    grid-row-gap: 2rem;
+}
+
+.img-container{
+    position: relative;
+    overflow: hidden;
+}
+
+.bag-btn{
+    position: absolute;
+    top: 70%;
+    right: 0;
+    background:rgb(232, 233, 123);
+    border: none;
+    text-transform: uppercase;  
+    padding: 0.5rem 0.75rem;
+    letter-spacing: normal;
+    font-weight: bold;
+    transition: all 0.5s ease;
+    transform: translateX(101%);
+    cursor: pointer;
+}
+
+.bag-btn:hover{
+    color: white;
+}
+
+.fa-shopping-cart{
+    margin-right: 0.5rem;
+}
+
+.img-container:hover .bag-btn {
+    transform: translateX(0);
+}
+
+.product-img {
+    display: block;
+    width: 100%;
+    min-height: 12rem;
+    transition: all 0.7s ease-in-out;
+}
+
+.img-container:hover .product-img {
+    opacity: 0.5;
+}
+
+.product h3{
+    text-transform: capitalize;
+    font-size: 1.1rem;
+    margin-top: 1rem;
+    letter-spacing: normal;
+    text-align: center;
+}
+
+
+
+
+
+
+/* =============== CART ==============*/
+.cart-overlay{
+    position: fixed;
+    top: 0;
+    right: 0;
+    width: 100%;
+    height: 100%;
+    background: transparent;
+    transition: all 0.7s ease-in-out;
+    background: rgb(233, 185, 123);
+    z-index: 2;
+    visibility: hidden;
+}
+
+.cart{
+    position: fixed;
+     top: 0;
+     right: 0;
+}
