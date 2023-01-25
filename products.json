@@ -5,7 +5,7 @@
         "fields": {
            "title": "queen panel bed",
            "price": 10.99,
-           "image": { "fields": { "file": { "url": "avery-klein-JaXs8Tk5Iww-unsplash.jpg"}}} 
+           "image": { "fields": { "file": { "url": "./img/avery-klein-JaXs8Tk5Iww-unsplash.jpg"}}} 
         }
     },
     {

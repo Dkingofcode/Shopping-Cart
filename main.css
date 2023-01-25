@@ -42,7 +42,7 @@
 /*=========== HERO =================*/
 .hero{
     min-height: calc(100vh - 60px);
-    background: url("./img/minh-pham-OtXADkUh3-I-unsplash.jpg") center/cover no-repeat;
+    background: url("/minh-pham-OtXADkUh3-I-unsplash.jpg") center/cover no-repeat;
     display: flex;
     align-items: center;
     justify-content: center;
