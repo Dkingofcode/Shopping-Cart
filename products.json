@@ -13,7 +13,7 @@
          "fields": {
             "title": "king panel bed",
             "price": 12.99,
-            "image": { "fields": { "file": { "url": "dan-gold-4HG3Ca3EzWw-unsplash.jpg"}}}
+            "image": { "fields": { "file": { "url": "./img/dan-gold-4HG3Ca3EzWw-unsplash.jpg"}}}
          }
     },
     {
@@ -21,7 +21,7 @@
         "fields": {
            "title": "queen panel bed",
            "price": 10.99,
-           "image": { "fields": { "file": { "url": "avery-klein-JaXs8Tk5Iww-unsplash.jpg"}}} 
+           "image": { "fields": { "file": { "url": "./img/avery-klein-JaXs8Tk5Iww-unsplash.jpg"}}} 
         }
     },
     {
@@ -29,7 +29,7 @@
         "fields": {
            "title": "queen panel bed",
            "price": 10.99,
-           "image": { "fields": { "file": { "url": "kenny-eliason-Wp7t4cWN-68-unsplash.jpg"}}} 
+           "image": { "fields": { "file": { "url": "./img/kenny-eliason-Wp7t4cWN-68-unsplash.jpg"}}} 
         }
     },
     {
@@ -37,7 +37,7 @@
         "fields": {
            "title": "queen panel bed",
            "price": 10.99,
-           "image": { "fields": { "file": { "url": "minh-pham-OtXADkUh3-I-unsplash.jpg"}}} 
+           "image": { "fields": { "file": { "url": "./img/minh-pham-OtXADkUh3-I-unsplash.jpg"}}} 
         }
     },
     {
@@ -45,7 +45,7 @@
         "fields": {
            "title": "queen panel bed",
            "price": 10.99,
-           "image": { "fields": { "file": { "url": "minh-pham-Y6HuHkhrKYU-unsplash.jpg"}}} 
+           "image": { "fields": { "file": { "url": "./img/minh-pham-Y6HuHkhrKYU-unsplash.jpg"}}} 
         }
     },
     {
@@ -53,7 +53,7 @@
         "fields": {
            "title": "queen panel bed",
            "price": 10.99,
-           "image": { "fields": { "file": { "url": "ralph-ravi-kayden-7sS6lTRb9R4-unsplash.jpg"}}} 
+           "image": { "fields": { "file": { "url": "./img/ralph-ravi-kayden-7sS6lTRb9R4-unsplash.jpg"}}} 
         }
     },
     {
@@ -61,7 +61,7 @@
         "fields": {
            "title": "queen panel bed",
            "price": 10.99,
-           "image": { "fields": { "file": { "url": "robin-jonathan-deutsch-t3BXn_fb9vs-unsplash.jpg" } } } 
+           "image": { "fields": { "file": { "url": "./img/robin-jonathan-deutsch-t3BXn_fb9vs-unsplash.jpg" } } } 
         }
     },
     {
@@ -69,7 +69,7 @@
         "fields": {
             "title": "crouch ring bed",
             "price": 13.01,
-            "image": { "fields": { "file": { "url": "hannah-busing-U-k6XLlml1I-unsplash.jpg" } } }
+            "image": { "fields": { "file": { "url": "./img/hannah-busing-U-k6XLlml1I-unsplash.jpg" } } }
         }
     },
     {
@@ -77,7 +77,7 @@
         "fields": {
             "title": "crouch ring bed",
             "price": 13.01,
-            "image": { "fields": { "file": { "url": "toa-heftiba-FV3GConVSss-unsplash.jpg" } } }
+            "image": { "fields": { "file": { "url": "./img/toa-heftiba-FV3GConVSss-unsplash.jpg" } } }
         }
     },
     {
@@ -85,7 +85,7 @@
         "fields": {
             "title": "crouch ring bed",
             "price": 13.01,
-            "image": { "fields": { "file": { "url": "vinicius-amnx-amano-17NCG_wOkMY-unsplash.jpg" } } }
+            "image": { "fields": { "file": { "url": "./img/vinicius-amnx-amano-17NCG_wOkMY-unsplash.jpg" } } }
         }
     },
     {
@@ -93,7 +93,7 @@
         "fields": {
             "title": "crouch ring bed",
             "price": 13.01,
-            "image": { "fields": { "file": { "url": "hannah-busing-U-k6XLlml1I-unsplash.jpg" } } }
+            "image": { "fields": { "file": { "url": "./img/hannah-busing-U-k6XLlml1I-unsplash.jpg" } } }
         }
     },
     {
@@ -101,7 +101,7 @@
         "fields": {
             "title": "crouch ring bed",
             "price": 13.01,
-            "image": { "fields": { "file": { "url": "hannah-busing-U-k6XLlml1I-unsplash.jpg" } } }
+            "image": { "fields": { "file": { "url": "./img/hannah-busing-U-k6XLlml1I-unsplash.jpg" } } }
         }
     }
 
